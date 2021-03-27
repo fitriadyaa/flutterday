@@ -1,6 +1,6 @@
 # onigiridiary
 
-A new Flutter project.
+A new Flutter project on Flutter 5 Days Bootcamp at LontarLab
 
 ## Getting Started
 
